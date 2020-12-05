@@ -1,15 +1,16 @@
-# Sue Cho
+# Sue Cho [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSueaty%2FSueaty&count_bg=%23B6A3E3&title_bg=%23783232&icon=apple.svg&icon_color=%23EBD9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <b>¡Hola!</b> I'm Sue an undergraduate studying computer science in Korea.<br>
 It hasn't been long but I am studying with passion to pursue my career as an <b>ios developer</b>. <br>
 Participating as a 'camper' in a 6 months long ios developer track module coordinated by Naver Connect Foundation was definitely a turning point in my life.
 Building communities is one of my interests and I hope to become a game changer in this field.
 
-<p align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSueaty%2FSueaty&count_bg=%23B6A3E3&title_bg=%23783232&icon=apple.svg&icon_color=%23EBD9D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 
-</p>
+🔭 I’m currently working on creating user events collector by cloning VIBE, a global music application <br>
+🌱 I’m currently learning SwiftUI and Core Data <br>
+🤔 I’m looking for help with Combine framework (srsly...) <br>
+
 
 ### 🌟Career
 | Type        | Date        | Contents | Organization |
@@ -21,9 +22,6 @@ Building communities is one of my interests and I hope to become a game changer 
 | 📱Employment📱  | 21.08~    | Ready to start my new career with you 🤟 | KIISE Undergraudate Paper |
 
 
-- 🔭 I’m currently working on creating user events collector by cloning VIBE, a global music application
-- 🌱 I’m currently learning SwiftUI and Core Data
-- 🤔 I’m looking for help with Combine framework (srsly...)
 
 <!--
 **Sueaty/Sueaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
