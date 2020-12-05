@@ -1,7 +1,7 @@
 # Sue Cho
 
 <b>¡Hola!</b> I'm Sue an undergraduate studying computer science in Korea.<br>
-I've been pursuing my career as an <b>ios developer</b> with passion. <br>
+It hasn't been long but I am studying with passion to pursue my career as an <b>ios developer</b>. <br>
 Participating as a 'camper' in a 6 months long ios developer track module coordinated by Naver Connect Foundation was definitely a turning point in my life.
 Building communities is one of my interests and I hope to become a game changer in this field.
 
