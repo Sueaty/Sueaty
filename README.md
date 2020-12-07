@@ -7,8 +7,8 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🔭 I’m currently working on creating user events collector by cloning VIBE, a global music application <br>
-🌱 I’m currently learning SwiftUI, Combine and Core Data <br>
+🔭 I’m currently working on creating **user events collector** by cloning VIBE, a global music application <br>
+🌱 I’m currently learning **SwiftUI**, **Combine** and **Core Data** <br>
 
 ---
 
@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
   
 [![Sueaty's github stats](https://github-readme-stats.vercel.app/api?username=Sueaty)](https://github.com/Sueaty/github-readme-stats)
 
-</p>
