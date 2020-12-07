@@ -8,9 +8,9 @@ Building communities is one of my interests and I hope to become a game changer 
 ---
 
 🔭 I’m currently working on creating user events collector by cloning VIBE, a global music application <br>
-🌱 I’m currently learning SwiftUI and Core Data <br>
-🤔 I’m looking for help with Combine framework (srsly...) <br>
+🌱 I’m currently learning SwiftUI, Combine and Core Data <br>
 
+---
 
 ### 🌟Career
 | Type        | Date        | Contents | Organization |
