@@ -7,7 +7,7 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🌱 I’m currently learning to implement various **algorithms** in swift <br>
+🌱 I’m currently learning to implement **Modern CollectionView** <br>
 
 ---
 
