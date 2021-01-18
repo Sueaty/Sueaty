@@ -7,7 +7,7 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🌱 I’m currently learning to implement **Modern CollectionView** <br>
+🔭 I’m currently working on **an app using Firebase** <br>
 
 ---
 
