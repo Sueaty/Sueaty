@@ -7,7 +7,7 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🔭 I’m currently working on **an app using Firebase** <br>
+🔭 I’m currently working on **3D modeling and animation using matplotlib in Python** <br>
 
 ---
 
