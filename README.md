@@ -7,7 +7,7 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🔭 I’m currently working on **3D modeling and animation using matplotlib in Python** <br>
+🔭 I’m currently working on **infinite carousels** <br>
 
 ---
 
@@ -18,7 +18,7 @@ Building communities is one of my interests and I hope to become a game changer 
 | 🎓Education🎓   | 19.08~20.06 | SCSE Undergraduate Exchange     | Nanyang Technological University (Singapore)|
 | 👩‍💻Programmes👩‍💻 | 20.07~20.12 | boostcamp 2020 - iOS Track | NAVER Connect Foundation         |
 | 🗞Publication🗞 | 2019.7      | Impl. of Chatbot for Pregnant Women with Question Analysis | KIISE Undergraudate Paper |
-| 📱Employment📱  | 21.08~    | Ready to start my new career with you 🤟 |  |
+| 📱Employment📱  | 21.03~    | iOS Dev. Internship | MUSINSA Soldout |
 
 
 
