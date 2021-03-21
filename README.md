@@ -7,7 +7,7 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🔭 I’m currently working on **infinite carousels** <br>
+🔭 I’m currently working on **SnapKit & RxSwift** <br>
 
 ---
 
