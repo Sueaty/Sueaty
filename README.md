@@ -14,7 +14,7 @@ Building communities is one of my interests and I hope to become a game changer 
 ### 🌟Career
 | Type        | Date        | Contents | Organization |
 | --------    | --------    | -------- | --------     |
-| 🎓Education🎓   | 17.03~21.08 | Computer Science Undergraduate | Sookmyung W. University (S.Korea) |
+| 🎓Education🎓   | 17.03~22.02 | Computer Science Undergraduate | Sookmyung W. University (S.Korea) |
 | 🎓Education🎓   | 19.08~20.06 | SCSE Undergraduate Exchange     | Nanyang Technological University (Singapore)|
 | 👩‍💻Programmes👩‍💻 | 20.07~20.12 | boostcamp 2020 - iOS Track | NAVER Connect Foundation         |
 | 🗞Publication🗞 | 2019.7      | Impl. of Chatbot for Pregnant Women with Question Analysis | KIISE Undergraudate Paper |
