@@ -7,7 +7,8 @@ Building communities is one of my interests and I hope to become a game changer 
 
 ---
 
-🔭 I’m currently working on **SnapKit & RxSwift** <br>
+🔭 I’m currently working on **my personal app Pixel Palette** <br>
+📫 How to reach me : sueaty.cho@gmail.com
 
 ---
 
